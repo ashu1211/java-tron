@@ -2,6 +2,7 @@
 
 # Update and install necessary packages
 sudo apt-get update -y
+sudo apt-get install git -y
 sudo apt install openjdk-8-jre-headless -y
 sudo apt install default-jre -y
 sudo apt install default-jdk -y
